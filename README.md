@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuoYiyang
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning CPS
 
 
 <!---
